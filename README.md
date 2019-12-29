@@ -1,6 +1,5 @@
-# CPP-Design-Patterns
+# Design Patterns in Modern C++
 
-Install CppREST on Ubuntu:
-```
-$ sudo apt install libcpprest-dev
-```
+Discover the modern implementation of design patterns with С++
+
+Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design by Dmitri Nesteruk
